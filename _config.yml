@@ -1,3 +1,14 @@
-theme: jekyll-theme-cayman
 title: Fernando Muniz - Cybersecurity Portfolio
 description: Meu portfólio de segurança cibernética, projetos e certificações.
+theme: jekyll-theme-slate
+baseurl: "" # Deixe isso vazio se não estiver usando subdiretórios
+url: "https://fernandomuniz.github.io" # URL do site
+
+# Configurações adicionais
+author: Fernando Muniz
+email: fernandombmuniz@outlook.com
+
+# Links para redes sociais (se aplicável)
+social_links:
+  linkedin: https://linkedin.com/in/seu-usuario
+  github: https://github.com/seu-usuario
